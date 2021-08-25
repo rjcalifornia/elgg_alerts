@@ -2,13 +2,13 @@
 
 <p align="center">
   
-    <img src="https://raw.github.com/sweetalert2/sweetalert2/master/assets/sweetalert2.gif" width="562"><br>
-    Elgg
-  
+<img src="https://raw.github.com/sweetalert2/sweetalert2/master/assets/sweetalert2.gif" width="562">
+
+<br>
 </p>
 
 <p align="center">
-  Integration of SweetAlert2 in elgg
+  Integration of the SweetAlert2 library in elgg
 </p>
 
 ## Main Features
