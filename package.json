@@ -1,0 +1,10 @@
+{
+  "name": "elgg_alerts",
+  "version": "1.0.0",
+  "description": "Sweet alerts integration",
+  "author": "rjcalifornia",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.1.4"
+  }
+}

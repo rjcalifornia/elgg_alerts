@@ -1,0 +1,12 @@
+{
+    "name": "rjcalifornia/elgg_alerts",
+	"type": "elgg-plugin",
+	"description": "Better notifications for elgg",
+	"license": "GPL-2.0-only",
+	"keywords": ["content", "tools"],
+	"homepage": "https://elgg.org",
+
+    "require": {
+        "twig/twig": "3.3"
+    }
+}

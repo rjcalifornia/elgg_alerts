@@ -1,0 +1,14 @@
+{% include 'scripts/sweet_alerts.html.twig' %}
+  {%for key,value in data.messages %}
+ <script>
+       
+            Swal.fire({
+            position: 'top-end',
+            icon: '{{key}}',
+            title: '{{value[0]}}',
+            showConfirmButton: false,
+            timer: 1950
+            });
+       
+    </script>
+ {%endfor%}
