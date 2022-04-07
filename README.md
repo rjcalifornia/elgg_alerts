@@ -13,20 +13,24 @@
 
 ## Main Features
 
-- Compatible with all elgg themes/plugins
-- Ready for elgg 4.x
+- Compatible with the majority of elgg themes and plugins
+- Display beautiful notification messages to elgg
 
-## Getting Started
+### Requirements
+* PHP 7.4.30
+* Composer
+* NodeJS
+* NPM
+* elgg 4.x
 
+## Installation
 - Clone this repository
-- Unzip it inside the mod folder
+- Run ``` composer install ``` to install the required PHP dependencies
+- Run ``` npm install ``` to install SweetAlert2
 - Place at the bottom of the list and activate it
 
-## Information
+## Dependencies
 
-<p align="center">
-  <a href="https://sweetalert2.github.io/">
- 
-    See SweetAlert2 in action ↗
-  </a>
-</p>
+- [Twig 3.3](https://twig.symfony.com/) - Twig is a modern template engine for PHP
+- [SweetAlert2](https://sweetalert2.github.io/) - A beautiful, and responsive replacement for JavaScript's popup boxes.
+
