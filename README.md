@@ -17,16 +17,20 @@
 - Display beautiful notification messages to elgg
 
 ### Requirements
-* PHP 7.4.30
+* PHP 8.2.x
 * Composer
 * NodeJS
 * NPM
 * elgg 4.x
 
-## Installation
+## Installation | Dev
 - Clone this repository
 - Run ``` composer install ``` to install the required PHP dependencies
 - Run ``` npm install ``` to install SweetAlert2
+
+## Installation | Elgg
+- Download from the elgg repository
+- Unzip in the mod folder
 - Place at the bottom of the list and activate it
 
 ## Dependencies
